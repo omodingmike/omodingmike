@@ -56,6 +56,10 @@ I specialize in **PHP and Laravel backend development**, with experience in fina
 - Full-Stack Web Development
 - Mobile Application Development
 
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omodingmike&theme=github-compact)
+
 ## GitHub Statistics
 
 ![Omoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omodingmike&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
