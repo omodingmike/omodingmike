@@ -1,10 +1,4 @@
-
-
-
-
-
-
-# Hi, I'm Omoding Mike 👋
+# Hi, I'm Omoding Mike
 
 ### Software Engineer | Backend Development | Full-Stack Web & Mobile Applications
 
@@ -58,7 +52,7 @@ I specialize in **PHP and Laravel backend development**, with experience in fina
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omodingmike&theme=github-compact)
+[![View GitHub Contributions](https://img.shields.io/badge/GitHub-View%20My%20Contributions-238636?logo=github)](https://github.com/omodingmike#user-activity-overview)
 
 ## GitHub Statistics
 
